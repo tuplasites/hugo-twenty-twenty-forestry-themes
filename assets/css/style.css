@@ -458,7 +458,7 @@ hr.styled-separator::after {
 }
 
 a {
-	color: #cd2653;
+	color: #3c7d9d;
 	text-decoration: underline;
 }
 
@@ -1308,7 +1308,7 @@ ul.social-icons li {
 
 .social-icons a {
 	align-items: center;
-	background: #cd2653;
+	background: #509FC0;
 	border-radius: 50%;
 	color: #fff;
 	display: flex;
