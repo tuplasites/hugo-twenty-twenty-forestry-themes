@@ -934,7 +934,9 @@ section.wp-block-cover-image>h2 {
 }
 
 .wp-block-image img {
-  max-width: 100%
+  max-width: 90%;
+  object-fit: cover;
+  height: 280px;
 }
 
 .wp-block-image.aligncenter {
